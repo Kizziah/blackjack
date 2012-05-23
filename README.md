@@ -1,0 +1,4 @@
+blackjack
+=========
+
+Simply BlackJack simulator 
