@@ -1,4 +1,4 @@
 blackjack
 =========
 
-Simply BlackJack simulator 
+Ruby BlackJack simulator 
