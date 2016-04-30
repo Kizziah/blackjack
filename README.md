@@ -1,4 +1,4 @@
-blackjack
+Ruby BlackJack
 =========
 
 Ruby BlackJack simulator 
